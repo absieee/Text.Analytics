@@ -1,0 +1,48 @@
+doc1 = C0BAAAAQAAJ = Dictionary of Greek and Roman Geography - william smith
+
+doc2 = 2X5KAAAAYAAJ = The history of cornelius tacitus, volume 5 - arthur murphy
+
+doc3 = 9ksIAAAAQAAJ = The history of the Peloponnesian war, tr. - William Smith
+
+doc4 = aLcWAAAAQAAJ = The History of the Decline and Fall of the Roman Empire, Volume 1 - edward gibbon, william smith
+
+doc5 = Bdw_AAAAYAAJ = The History of Rome, Volume 1 - Titus livius, george baker
+
+doc6 = CnnUAAAAMAAJ = The Whole Genuine Works of Flavius Josephus, the Learned and Authentic Jewish Historian, and Celebrated Warrior: Volume 2 - By Flavius Josephus, Siwart Haverkamp
+
+doc7 = CSEUAAAAYAAJ = The History of the Decline and Fall of the Roman Empire - Volume 3 - by edward gibbon
+
+doc8 = DhULAAAAYAAJ = The Description of Greece - Pausanias
+
+doc9 = dIkBAAAAQAAJ = The history of Rome, tr. by W.P. Dickson. [With] Index, Volume 3 - theodor mommsens
+
+doc10 = DqQNAAAAYAAJ = Livy volume 3 - george baker
+
+doc11 = fnAMAAAAYAAJ = The History of the Peloponnesian War, Volume 1 - william smith
+
+doc12 = GIt0HMhqjRgC = Edward Gibbon's History of the decline and fall of the Roman empire, repr. with the omission of all passages of an irreligious or immoral tendency, by T. Bowdler, Volume 4
+
+doc13 = IlUMAQAAMAAJ = History of the decline and fall of the Roman empire for the use of ..., Volume 2
+By Edward Gibbon, Thomas Bowdler
+
+doc14 = m_6B1DkImIoC = Roman History: Translated Into English, and Illustrated with Notes, Critical, Historical and Geological, for the Use of Students in Humanity by Livy and William Gordon
+
+doc15 = MEoWAAAAYAAJ = The Historical Annals of Cornelius Tacitus: With Supplements, Volume 1 - Cornelius Tacitus, Arthur Murphy
+
+doc16 = ogsNAAAAIAAJ = The works of josephus, volume 4 - william whitson
+
+doc17 = pX5KAAAAYAAJ = The annals - Cornelius Tacitus, Arthur Murphy
+
+doc18 = RqMNAAAAYAAJ = Livy volume 5 - george baker
+
+doc19 = TgpMAAAAYAAJ = The Genuine Works of Flavius Josephus, the Jewish Historian: flavius josephus
+
+doc20 = udEIAAAAQAAJ = The first and thirty-third books of Pliny's Natural history; a specimen of a proposed tr. of the whole work, by J. Bostock
+
+doc21 = VPENAAAAQAAJ = The History of the Decline and Fall of the Roman Empire, Volume 5 - edward gibbon
+
+doc22 = WORMAAAAYAAJ = The history of cornelius tacitus - william seymour tyler
+
+doc23 = XmqHlMECi6kC = The History of the Decline and Fall of the Roman Empire, 6 - Edward Gibbon
+
+doc24 = y-AvAAAAYAAJ = The Works of Flavius Josephus, the Learned and Authentic Jewish Historian and Celebrated Warrior: To which are Added Three Dissertations, Volume 3 - flavius josephus
