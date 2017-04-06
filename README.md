@@ -1,12 +1,14 @@
 # Text Mining
-# Purpose
-Data Mining Individual Coursework
 
-#Aim
-Use exploratory and descriptive data mining techniques to determine how 24 texts are related to one another.
+# Purpose:
+COMP6237 Data Mining Individual Coursework
 
-#Multi-Dimensional Scaling
+# Aim:
+Apply exploratory and descriptive data mining techniques on a set of 24 documents to determine how they are related to each other.
 
-#Heirarchical Clustering
+# Results
+## Multi-Dimensional Scaling
 
-#K-Means Clustering
+## Heirarchical Clustering
+
+## K-Means Clustering
